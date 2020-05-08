@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: "Balsamiq Sans", cursive;
 }
+/*  too see nav section fixed left of page   */
 nav {
   position: fixed;
   top: 0px;
