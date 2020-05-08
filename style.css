@@ -54,6 +54,7 @@ code {
   margin: 10px;
   border-radius: 5px;
 }
+/* use media query tag to see better with all devices */
 @media only screen and (max-width: 815px) {
   nav {
     background-color: white;
