@@ -58,6 +58,7 @@ code {
 @media only screen and (max-width: 815px) {
   nav {
     background-color: white;
+    /* to see the nav section top of the page */
     position: absolute;
     top: 0;
     padding: 0;
