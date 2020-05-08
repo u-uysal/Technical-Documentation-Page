@@ -18,6 +18,7 @@ header {
   text-align: center;
   font-size: 1.5em;
 }
+/* to see all items thanks to scroll */
 nav ul {
   overflow-y: auto;
   height: 88%;
